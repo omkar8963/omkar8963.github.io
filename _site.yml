@@ -6,8 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "C01"
-      href: https://gist.github.com/omkar8963/277c4385025c3775522cc23ebcd12b88
+    - text: "CWC01"
+      href: https://gist.github.com/omkar8963/27d03a7e407972481c215d0c4532c8b4
   right: 
     - icon: fa-envelope fa-lg
       href: 
