@@ -1,0 +1,8 @@
+---
+  title: "Advanced Business Analytics Assignments"
+---
+
+    
+    
+## A01
+<script src="https://gist.github.com/omkar8963/7869c78a1934493b976183bdd280ff48.js"></script>

@@ -6,8 +6,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "CWC01"
-      href: https://gist.github.com/omkar8963/27d03a7e407972481c215d0c4532c8b4
+    - text: "Classwork"
+      href: classwork.html
+    - text: "Assignments"
+      href: assignment.html
   right: 
     - icon: fa-envelope fa-lg
       href: 
