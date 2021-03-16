@@ -1,6 +1,8 @@
 ---
   title: "Advanced Business Analytics Classwork"
 ---
+## C10
+<script src="https://gist.github.com/omkar8963/c59badc98db83dc7ca17d4b37db29a2d.js"></script>
 ## C05
 <script src="https://gist.github.com/omkar8963/0c3136dc86246fb4081cc3932fe93e00.js"></script>
 ## C04
