@@ -2,7 +2,6 @@
   title: "Advanced Business Analytics Assignments"
 ---
 ## A 05 
-<script src="https://gist.github.com/omkar8963/17d9fc9733b5beec39245af4930ccd08.js"></script>
     
 ## A01
 <script src="https://gist.github.com/omkar8963/7869c78a1934493b976183bdd280ff48.js"></script>
